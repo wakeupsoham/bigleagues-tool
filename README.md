@@ -2,7 +2,6 @@
 
 An interactive Streamlit application designed for guys in finance to visualize and model Market Impact (Slippage) and Execution Risk for large orders.
 
-![Streamlit UI Concept](https://img.shields.io/badge/Streamlit-Dark_Theme-00E676?style=flat-square&logo=streamlit)
 
 ##  Features that I think are cool
 
